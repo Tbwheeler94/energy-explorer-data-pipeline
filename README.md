@@ -1,12 +1,12 @@
 # **Welcome to the energyexplorer.io data pipeline!**
 
-### **README.md purpose**
+### **What is this repository?**
 
-This document provides an overview of the project background, key files, and additional data sources used in developing this project. *data-pipeline.ipynb* is an interactive notebook which provides a way for a user to understand the backend calculations used by energyexplorer.io.
+This repository enables users of [energyexplorer.io](https://energy-explorer.herokuapp.com/site-finder/) to explore the backend data imports and calculations used by this web application. To do this:
 
-### **How to explore the data pipeline?**
-
-Open up *data-pipeline.ipynb*! Directions are embedded into the notebook so you can just follow along.
+1. Download this repository to your local
+2. Open *data-pipeline.ipynb*
+3. Follow directions provided in notebook (you will need to register for an API key and likely download a couple packages to your virtual environment)
 
 ### **Project overview**
 
